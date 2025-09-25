@@ -1,6 +1,6 @@
 ## About Me
 - Currently taking my course at SETU Waterford.
-- Interested in learining new skills.
+- Interested in learning new skills.
 
 ## 🛠️ Tech Stack
 - Languages: `JavaScript` `Python` `C++` `SQL` `Java` `C#`  `HTML`
