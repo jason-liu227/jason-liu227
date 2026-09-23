@@ -2,9 +2,9 @@
 - Currently taking my course at SETU Waterford.
 
 ## 🛠️ Tech Stack
-- Languages: `Python` `C++` `C#` `HTML` `JavaScript` `SQL` `Java`
+- Languages: `Python` `C++` `C#` `Java` `Kotlin` `HTML` `JavaScript` `SQL`
 - Frameworks: `React` `Node.js`
-- Tools: `Git` `Intellij` `Unity`
+- Tools: `Git` `Intellij` `Unity` '`Jira`
 
 ## 📊 GitHub Stats
 ![Jason's GitHub stats](https://github-stats-extended.vercel.app/api?username=jason-liu227&show_icons=true&theme=tokyonight)  
