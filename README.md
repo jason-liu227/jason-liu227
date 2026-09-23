@@ -4,7 +4,7 @@
 ## 🛠️ Tech Stack
 - Languages: `Python` `C++` `C#` `Java` `Kotlin` `HTML` `JavaScript` `SQL`
 - Frameworks: `React` `Node.js`
-- Tools: `Git` `Intellij` `Unity` '`Jira`
+- Tools: `Git` `Intellij` `Unity` `Jira`
 
 ## 📊 GitHub Stats
 ![Jason's GitHub stats](https://github-stats-extended.vercel.app/api?username=jason-liu227&show_icons=true&theme=tokyonight)  
